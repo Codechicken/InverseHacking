@@ -1,0 +1,8 @@
+link 0;
+is-hub;
+hub-type 1;
+has-firewall;
+firewall-rules-dir=.pack:firewall.pak:;
+firewall-rules=[base,internal,null];
+firewall-active 1;
+has-packet-inspect;
