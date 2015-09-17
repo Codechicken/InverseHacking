@@ -1,0 +1,3 @@
+set init.pc=tutorial0.tutorial0.root;
+set init.tools=cat,ls,null;
+set init.msg="This is the tutorial, you have been given 'cat' and 'ls'. Find  the 'ssh' tool and connect to 'exitnode'.";

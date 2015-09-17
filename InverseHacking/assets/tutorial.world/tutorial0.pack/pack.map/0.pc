@@ -1,6 +1,0 @@
-link .offmap1;
-dual-homed-ext .offmap1;
-dual-homed-int secstation425;
-dual-homed-active 1;
-on-enter-ext (console-exec ssh hub0;)
-on-enter-int (console-exec ssh .offmap1;)

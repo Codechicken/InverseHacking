@@ -1,7 +1,0 @@
-is-pc;
-link exitnode;
-has-tool ssh;
-add-directory tools;
-add-directory-file-tool tools, ssh;
-add-file readme;
-add-file-content readme "Did you look in tools? Anyway, the command for 'ssh' is 'ssh whatever' for now.";

@@ -1,3 +1,0 @@
-set this.pc=root,exitnode,null;
-set this.spawnpc=this.pc.root;
-set this..offmap0=this.pack:pack:0;
